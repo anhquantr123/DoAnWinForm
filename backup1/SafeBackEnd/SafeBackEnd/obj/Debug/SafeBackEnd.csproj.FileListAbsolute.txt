@@ -1,0 +1,11 @@
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\bin\Debug\SafeBackEnd.exe.config
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\bin\Debug\SafeBackEnd.exe
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\bin\Debug\SafeBackEnd.pdb
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.csprojAssemblyReference.cache
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.Properties.Resources.resources
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.csproj.GenerateResource.cache
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.exe
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.pdb
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.GUI.frmLogin.resources
+C:\Users\anhqu\source\repos\SafeBackEnd\SafeBackEnd\obj\Debug\SafeBackEnd.frmMain.resources
